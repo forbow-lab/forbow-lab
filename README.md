@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning GitHub, Cloud Compute, Speech, Sleep and fMRI analysis.
 - 📫 How to reach me: [forbow website](http://www.forbow.org).
 
+---
 
 ### Git Lab Members
 
@@ -14,6 +15,21 @@
 * Mary - [mehrisajjadian](https://github.com/mehrisajjadian)
 * Nitya - [Nitya-A](https://github.com/Nitya-A)
 * Niket - [niket2002](https://github.com/niket2002)
+
+---
+
+### Git Projects
+
+Papers:
+
+* [Reliability of MRI in youth](https://github.com/GitDro/YouthReliability)
+* [Developmental brain Age](https://github.com/GitDro/DevelopmentalBrainAge)
+
+Lab manuals:
+
+* [Neuro structural pipeline](https://github.com/forbow-lab/neuro-structural-pipeline)
+* [Neuro functional pipeline](https://github.com/forbow-lab/neuro-functional-pipeline)
+
 
 <!---
 forbow-lab/forbow-lab is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
