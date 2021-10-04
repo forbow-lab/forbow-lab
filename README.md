@@ -15,6 +15,7 @@
 * Mary - [mehrisajjadian](https://github.com/mehrisajjadian)
 * Nitya - [Nitya-A](https://github.com/Nitya-A)
 * Niket - [niket2002](https://github.com/niket2002)
+* Murage - [waigwamacha](https://github.com/waigwamacha)
 
 ---
 
